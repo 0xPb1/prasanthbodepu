@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @prasanthbodepu
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning VAPT, WAPT, SIEM Tools such as Splunk and Qradar
-- 💞️ I’m looking to collaborate on CTFs, RVDPs
+- 👋 Hey there, I’m @prasanthbodepu
+- 👀 I’m currently working on cyber security, bug bounty and pentesting
+- 🌱 I’m currently learning PowerShell, WAFs
+- 💞️ I’m looking to collaborate on CTFs and bugbounties
 - 📫 You can reach me at prasanth.bodepu@gmail.com - https://www.linkedin.com/in/prasanth-bodepu-411ba31a3/
 
 <!---
