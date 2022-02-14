@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m @prasanthbodepu
-- 👀 I’m currently working on cyber security, bug bounty and pentesting
-- 🌱 I’m currently learning PowerShell, WAFs
+- 👀 I’m a cyber security enthusiast, Pentester and a part-time bug bounty hunter
+- 🌱 I’m currently learning Devsecops
 - 💞️ I’m looking to collaborate on CTFs and bugbounties
 - 📫 You can reach me at prasanth.bodepu@gmail.com - https://www.linkedin.com/in/prasanth-bodepu-411ba31a3/
 
